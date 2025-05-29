@@ -1,0 +1,10 @@
+parametros:
+  Lx: 800
+  Ly: 800
+  k_B: 1.38e-23  # Constante de Boltzmann en J/K
+  m: 3.35e-27  # Masa de una partícula en kg (por ejemplo, una molécula de hidrógeno)
+  dt: 0.001
+  radio: 0.00012 # radio efectivo de una molecula de hidrogeno.
+  desv: 1600
+  pasos: 5000
+  N: 1000 # Numero de Particulas
