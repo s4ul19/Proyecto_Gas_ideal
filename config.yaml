@@ -1,10 +1,10 @@
 parametros:
-  Lx: 800
-  Ly: 800
+  Lx: 800 #Dimension x de la caja
+  Ly: 800 #Dimension y de la caja
   k_B: 1.38e-23  # Constante de Boltzmann en J/K
   m: 3.35e-27  # Masa de una partícula en kg (por ejemplo, una molécula de hidrógeno)
-  dt: 0.001
+  dt: 0.001 # Intervalo de tiempo entre cada paso
   radio: 0.00012 # radio efectivo de una molecula de hidrogeno.
-  desv: 1600
-  pasos: 5000
+  desv: 700 # desviacion de velocidad
+  pasos: 5000  # Numero de veces a calcular
   N: 1000 # Numero de Particulas
